@@ -1,0 +1,14 @@
+entries:
+  - title: Projects
+    entries:
+      - title: Toms.Photos
+        url: https://Toms.Photos
+      - title: "A photo gallery made in react using an asp.net core backend.
+                It allows for super easy uploading as its based on the filesystem
+                structure, and has passworded galleries for sharing with friends and family."
+  - title: All posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
