@@ -13,7 +13,7 @@ entries:
         url: https://github.com/Flon22/PoshBlock
       - title: An Arkanoid style game written in powershell using winforms for the GUI. 
                A fun experiment to learn basic phyics and game loops. Not the prettiest code but it works!
-  - title: All posts
+  - title: Blog posts
     post_list:
       limit: 5
       show_more: true
