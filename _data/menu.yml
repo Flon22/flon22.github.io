@@ -1,11 +1,18 @@
 entries:
   - title: Projects
     entries:
+      - title: GamePlayList - WIP
+      - title: A web app to help you and your friends keep track of games you want to play together. 
+               Written in react with an asp.net core backend, pulls game data from the IGDB api.
       - title: Toms.Photos
         url: https://Toms.Photos
       - title: "A photo gallery made in react using an asp.net core backend.
                 It allows for super easy uploading as its based on the filesystem
                 structure, and has passworded galleries for sharing with friends and family."
+      - title: PoshBlock
+        url: https://github.com/Flon22/PoshBlock
+      - title: An Arkanoid style game written in powershell using winforms for the GUI. 
+               A fun experiment to learn basic phyics and game loops. Not the prettiest code but it works!
   - title: All posts
     post_list:
       limit: 5
